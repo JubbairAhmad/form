@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "fullName": "Rohith C",
+    "address": "3 waterfoot road",
+    "phoneNumber": "7654312334",
+    "email": "rohith@email.com"
+  },
+  {
+    "id": 2,
+    "fullName": "Khishore",
+    "address": "4 tall town",
+    "phoneNumber": "1234556789",
+    "email": "khishore@email.com"
+  }
+]
